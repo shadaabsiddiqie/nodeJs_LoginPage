@@ -1,0 +1,56 @@
+{
+        "students": [
+                {
+                        "name": "raju",
+                        "password": "123abc",
+                        "batch": "CSD",
+                        "year": "2015",
+                        "coll_id": 201502111
+                },
+                {
+                        "name": "kaju",
+                        "password": "321cba",
+                        "batch": "CSE",
+                        "year": "2015",
+                        "coll_id": 201502222
+                },
+                {
+                        "name": "baju",
+                        "password": "abc321",
+                        "batch": "ECD",
+                        "year": "2015",
+                        "coll_id": 201502333
+                },
+                {
+                        "name": "taju",
+                        "password": "123cba",
+                        "batch": "ECE",
+                        "year": "2015",
+                        "coll_id": 201502444
+                },
+                {
+                        "name": "111",
+                        "key": "qqq",
+                        "password": "111",
+                        "batch": "111",
+                        "year": "111",
+                        "coll_id": "111"
+                },
+                {
+                        "name": "papap",
+                        "key": "<%=uniquecode%",
+                        "password": "papapap",
+                        "batch": "jjjjjj",
+                        "year": "lklkjlkljlkjoioi",
+                        "coll_id": "hdishfivuhi"
+                },
+                {
+                        "name": "kdlkjlDKANclds;oiew",
+                        "key": "<%=",
+                        "password": "kjsra;gl;iros",
+                        "batch": "ksdfjbod brijjbrea",
+                        "year": "kjvndhoiaj vkjno",
+                        "coll_id": "anfvlnzcxmzoisereos"
+                }
+        ]
+}
